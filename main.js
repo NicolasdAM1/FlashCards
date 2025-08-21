@@ -20,7 +20,7 @@ export function menu(){
             + "3 - Editar Baralho\n"
             + "4 - Remover Baralho\n"
             + "5 - Criar Flashcard\n"
-            
+
             
     )
     let choice = prompt("> ");
